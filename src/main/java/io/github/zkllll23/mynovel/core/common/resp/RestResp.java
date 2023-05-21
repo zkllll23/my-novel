@@ -4,6 +4,8 @@ import io.github.zkllll23.mynovel.core.common.constant.ErrorCodeEnum;
 import lombok.Getter;
 
 /**
+ * REST响应数据格式封装
+ *
  * @author zkllll23
  * @date 2023/5/21
  */

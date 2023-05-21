@@ -24,6 +24,11 @@ public enum ErrorCodeEnum {
     USER_ERROR("A0001", "用户错误"),
 
     /**
+     * 用户请求参数错误
+     */
+    USER_REQUEST_PARAM_ERROR("A0100", "用户请求参数错误"),
+
+    /**
      * 系统相关错误
      */
     SYSTEM_ERROR("B0001", "系统错误"),
